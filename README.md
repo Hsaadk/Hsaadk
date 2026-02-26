@@ -20,3 +20,5 @@
 ## Goals
 - Become a SOC Analyst
 - Earn CEH & Security+ Certification
+
+Python | Linux | Wireshark | Autopsy | FTK | Networking | Git
