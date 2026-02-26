@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Saad 👋
 
-<!--
-**Hsaadk/Hsaadk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity Student 
+🔐 Interested in Information Security & Digital Forensics  
+💻 Learning: Network Security, Ethical Hacking, Python  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Networking (TCP/IP, DNS, DHCP)
+- Linux Basics
+- Python Programming
+- Digital Forensics (Autopsy, FTK Imager)
+- Remote Desktop & System Configuration
+
+## Currently Working On
+- Cybersecurity Labs
+- GitHub Portfolio Projects
+- Network Security Practice
+
+## Goals
+- Become a SOC Analyst
+- Earn CEH & Security+ Certification
