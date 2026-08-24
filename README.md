@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Saad</h1>
-<h3 align="center">🔐 Cybersecurity Student | 🛡️ SOC Analyst Aspirant | 💻 Security & Forensics Learner</h3>
+  <h1 align="center">Hi  I'm Saad</h1>
+<h3 align="center"> SOC Analyst Aspirant | Digital Forensics @ NCCIA | Founder @ CyberForge Academy</h3>
 
 <p align="center">
-Focused on building secure systems and understanding how attacks really work.
+Building secure systems, investigating digital evidence, and shipping AI-assisted security tools.
 </p>
 
 ---
@@ -21,43 +21,46 @@ Focused on building secure systems and understanding how attacks really work.
 ---
 
 ### 👨‍💻 About Me
-- 🔐 Passionate about Information Security & Threat Detection  
-- 🧪 Hands-on experience with Digital Forensics Labs  
-- 🌐 Practicing Network Security & System Hardening  
-- 📚 Documenting labs, tools, and cybersecurity notes  
-- 🎯 Focused on building strong foundations in cybersecurity  
+
+- 🎓 Final-year **BS Cybersecurity** student at PAF-IAST, Haripur
+- 🕵️ Interning in the **Digital Forensics** department at **NCCIA** (National Cyber Crime Investigation Agency)
+- 🛠️ Building **TracePoint** — an offline, AI-assisted forensic image correlation platform (Ollama, RAG, Sleuth Kit, React Three Fiber)
+- 🚀 Founder of **CyberForge Academy**, a student-run cybersecurity training initiative
+- 💼 Freelancing in web development, Shopify management, AI product photography, and TikTok Shop setup
+- 🏁 Active in CTFs and hands-on penetration testing labs
 
 ---
 
 ### 🛠️ Technical Skills
 
-- **Networking:** TCP/IP, DNS, DHCP, Remote Desktop, File Sharing  
-- **Digital Forensics:** Autopsy, FTK Imager, Evidence Analysis  
-- **Security Tools:** Wireshark, Nmap, Basic Vulnerability Scanning  
-- **Operating Systems:** Windows, Linux (Kali & Ubuntu)  
-- **Programming:** Python (Basic Security Scripts), C++  
-- **Version Control:** Git & GitHub  
+- **Networking:** TCP/IP, DNS, DHCP, VLANs, NAT/PAT, Subnetting
+- **Digital Forensics:** Autopsy, FTK Imager, Oxygen Forensic Detective, MOBILedit, Cellebrite, MBR/GPT & FAT analysis, evidence reporting
+- **Security Tools:** Wireshark, Nmap, Aircrack-ng, Kali Linux, vulnerability scanning
+- **AI/Dev:** React, Node.js, Python, Ollama (local LLM), RAG pipelines
+- **Operating Systems:** Windows, Linux (Kali & Ubuntu)
+- **Version Control:** Git & GitHub
 
 ---
 
-### 📂 Projects
+### 📂 Featured Projects
 
-- 🖥️ Remote Desktop & File Sharing Lab  
-- 🔍 Digital Forensics Investigation Reports  
-- 🌐 Network Configuration & Security Labs  
-- 🐍 Basic Python Security Scripts  
-- 📖 Cybersecurity Notes Repository  
+- 🔍 **TracePoint AI Correlation Platform** — Offline digital forensics tool with local LLM inference, RAG-based correlation, and a Sleuth Kit backend
+- 🔐 **FaceGate** — Passwordless facial recognition authentication with RBAC (React, Node.js, MongoDB)
+- 🤖 **CyberSift** — AI-powered SOC log analyzer automating Junior SOC Analyst functions (React, Node.js, Ollama/llama3)
+- 📖 Digital forensics investigation reports & cybersecurity training material (CyberForge Academy)
 
 ---
 
 ### 🎯 Career Goal
-To become a SOC Analyst and specialize in Threat Monitoring & Incident Response.
+
+To specialize in digital forensics and threat investigation, while building commercially viable security products.
 
 ---
 
 ### 📫 Connect with Me
+
 <p>
-  <a href="https://www.linkedin.com/" target="blank">
+  <a href="https://www.linkedin.com/in/hasnain-shah-saad-352a0a2b0/" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="30" />
   </a>
 </p>
@@ -65,6 +68,7 @@ To become a SOC Analyst and specialize in Threat Monitoring & Incident Response.
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=default" alt="Saad's GitHub Stats"/>
 </p>
