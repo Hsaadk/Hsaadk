@@ -1,5 +1,5 @@
-  <h1 align="center">Hi  I'm Saad</h1>
-<h3 align="center"> SOC Analyst Aspirant | Digital Forensics @ NCCIA | Founder @ CyberForge Academy</h3>
+<h1 align="center">Hi, I'm Saad</h1>
+<h3 align="center">SOC Analyst Aspirant | Digital Forensics @ NCCIA | Founder @ CyberForge Academy</h3>
 
 <p align="center">
 Building secure systems, investigating digital evidence, and shipping AI-assisted security tools.
@@ -7,7 +7,7 @@ Building secure systems, investigating digital evidence, and shipping AI-assiste
 
 ---
 
-### 🎖️ Badges
+### Badges
 
 <p align="left">
   <img src="https://img.shields.io/badge/Field-Information%20Security-red?style=for-the-badge" />
@@ -20,18 +20,18 @@ Building secure systems, investigating digital evidence, and shipping AI-assiste
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 Final-year **BS Cybersecurity** student at PAF-IAST, Haripur
-- 🕵️ Interning in the **Digital Forensics** department at **NCCIA** (National Cyber Crime Investigation Agency)
-- 🛠️ Building **TracePoint** — an offline, AI-assisted forensic image correlation platform (Ollama, RAG, Sleuth Kit, React Three Fiber)
-- 🚀 Founder of **CyberForge Academy**, a student-run cybersecurity training initiative
-- 💼 Freelancing in web development, Shopify management, AI product photography, and TikTok Shop setup
-- 🏁 Active in CTFs and hands-on penetration testing labs
+- Final-year BS Cybersecurity student at PAF-IAST, Haripur
+- Interning in the Digital Forensics department at NCCIA (National Cyber Crime Investigation Agency)
+- Building TracePoint — an offline, AI-assisted forensic image correlation platform (Ollama, RAG, Sleuth Kit, React Three Fiber)
+- Founder of CyberForge Academy, a student-run cybersecurity training initiative
+- Freelancing in web development, Shopify management, AI product photography, and TikTok Shop setup
+- Active in CTFs and hands-on penetration testing labs
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 - **Networking:** TCP/IP, DNS, DHCP, VLANs, NAT/PAT, Subnetting
 - **Digital Forensics:** Autopsy, FTK Imager, Oxygen Forensic Detective, MOBILedit, Cellebrite, MBR/GPT & FAT analysis, evidence reporting
@@ -42,22 +42,22 @@ Building secure systems, investigating digital evidence, and shipping AI-assiste
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 
-- 🔍 **TracePoint AI Correlation Platform** — Offline digital forensics tool with local LLM inference, RAG-based correlation, and a Sleuth Kit backend
-- 🔐 **FaceGate** — Passwordless facial recognition authentication with RBAC (React, Node.js, MongoDB)
-- 🤖 **CyberSift** — AI-powered SOC log analyzer automating Junior SOC Analyst functions (React, Node.js, Ollama/llama3)
-- 📖 Digital forensics investigation reports & cybersecurity training material (CyberForge Academy)
+- **TracePoint AI Correlation Platform** — Offline digital forensics tool with local LLM inference, RAG-based correlation, and a Sleuth Kit backend
+- **FaceGate** — Passwordless facial recognition authentication with RBAC (React, Node.js, MongoDB)
+- **CyberSift** — AI-powered SOC log analyzer automating Junior SOC Analyst functions (React, Node.js, Ollama/llama3)
+- Digital forensics investigation reports and cybersecurity training material (CyberForge Academy)
 
 ---
 
-### 🎯 Career Goal
+### Career Goal
 
 To specialize in digital forensics and threat investigation, while building commercially viable security products.
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <p>
   <a href="https://www.linkedin.com/in/hasnain-shah-saad-352a0a2b0/" target="blank">
@@ -67,8 +67,8 @@ To specialize in digital forensics and threat investigation, while building comm
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=default" alt="Saad's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hsaadk&show_icons=true&theme=default" alt="Saad's GitHub Stats"/>
 </p>
