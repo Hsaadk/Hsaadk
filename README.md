@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Saad</h1>
+
 <h3 align="center">SOC Analyst Aspirant | Digital Forensics @ NCCIA | Founder @ CyberForge Academy</h3>
 
 <p align="center">
